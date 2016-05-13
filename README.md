@@ -136,7 +136,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 配置管理工具
 
-*   [Ansible](http://www.ansibleworks.com/) -Python编写的，通过SSH管理节点
+*   [Ansible](http://www.ansible.com/) -Python编写的，通过SSH管理节点
 *   [CFEngine](http://cfengine.com/) -轻量级代理系统。通过申明语言配置状态。
 *   [Chef](http://www.opscode.com/chef/) -Rbuy和Erlang编写，使用纯RubyDSL
 *   [Fabric](http://www.fabfile.org/) - Python库和cli工具，为应用程序部署或系统管理任务简化使用SSH。
